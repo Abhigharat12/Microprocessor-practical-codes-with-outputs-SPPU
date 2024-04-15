@@ -1,8 +1,0 @@
-
-output :
-abhishekg@DELLnasm -f elf64 count_positive_negative.asm -o count_positive_negative.o
-ld count_positive_negative.o -o count_positive_negative
-./count_positive_negative
-
-The no. of Positive elements in 32-bit array: 3
-The no. of Negative elements in 32-bit array: 2
